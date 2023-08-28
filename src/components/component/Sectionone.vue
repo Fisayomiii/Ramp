@@ -152,9 +152,9 @@
 }
 
 .grid-item:hover {
-    box-shadow: -1px 20px 52px -30px rgba(0,0,0,0.66);
--webkit-box-shadow: -1px 20px 52px -30px rgba(0,0,0,0.66);
--moz-box-shadow: -1px 20px 52px -30px rgba(0,0,0,0.66);
+    box-shadow: -1px 20px 52px -30px rgba(0, 0, 0, 0.66);
+    -webkit-box-shadow: -1px 20px 52px -30px rgba(0, 0, 0, 0.66);
+    -moz-box-shadow: -1px 20px 52px -30px rgba(0, 0, 0, 0.66);
 }
 
 .home-card__heading-wrapper {
@@ -182,6 +182,18 @@
         position: relative;
         left: 0%;
         right: 0%;
+    }
+}
+
+@media (max-width: 700px) {
+    .container .hero-container-h1 {
+        font-size: 6vw;
+        /* Adjust the font size as needed */
+    }
+
+    .container .hero-container-paragraph {
+        /* font-size: 3vw; */
+        margin-bottom: 2em;
     }
 }
 
