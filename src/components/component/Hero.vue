@@ -231,14 +231,16 @@
 
 @media (max-width: 700px) {
     .container .hero-container-h1 {
-        font-size: 7vw;
-        /* Adjust the font size as needed */
+        font-size: 8vw;
     }
 
     .container .hero-container-paragraph {
-        font-size: 3vw;
+        /* font-size: 3vw; */
         padding: 0.5em;
-
+    }
+    .paragraph-wrapper,
+    .paragraph {
+        padding: .5em;
     }
 }
 

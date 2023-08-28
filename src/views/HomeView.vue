@@ -1,7 +1,7 @@
 <template>
     <Hero/>
     <Sectionone/>
-    <!-- <Sectiontwo /> -->
+    <Sectiontwo />
 </template>
 
 <script>
