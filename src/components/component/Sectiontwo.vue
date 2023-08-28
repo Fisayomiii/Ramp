@@ -2,7 +2,7 @@
     <section>
         <div class="relative items-center w-full px-5 py-12 mx-auto md:px-12 lg:px-16 max-w-7xl">
             <div class="text-center">
-                <h1 class="text-md font-bold leading-6 text-black within 500 fortune companies">
+                <h1 class="text-lg font-semibold leading-6 text-black within 500 fortune companies">
                     Trusted by innovators and industry leaders
                 </h1>
             </div>

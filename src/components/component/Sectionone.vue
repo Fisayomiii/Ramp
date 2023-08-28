@@ -192,7 +192,7 @@
     }
 
     .container .hero-container-paragraph {
-        font-size: 3vw;
+        /* font-size: 3vw; */
         margin-bottom: 1em;
     }
 }
