@@ -223,15 +223,9 @@
 
 /*=============== MEDIA ===============*/
 
-@media screen and (max-width: 576px) {
-    .newsletter__container {
-        display: grid;
-        grid-template-columns: .7fr;
-        justify-content: center;
-    }
-
-    .newsletter__description {
-        padding: 0 3rem;
+@media screen and (max-width: 815px) {
+    .side-imgs-wrapper {
+        display: none;
     }
 }
 
@@ -255,6 +249,19 @@
 
     .content {
         display: grid;
+    }
+}
+
+
+@media screen and (max-width: 576px) {
+    .newsletter__container {
+        display: grid;
+        grid-template-columns: .7fr;
+        justify-content: center;
+    }
+
+    .newsletter__description {
+        padding: 0 3rem;
     }
 }
 </style>
