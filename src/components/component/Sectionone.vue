@@ -185,6 +185,18 @@
     }
 }
 
+@media (max-width: 700px) {
+    .container .hero-container-h1 {
+        font-size: 5vw;
+        /* Adjust the font size as needed */
+    }
+
+    .container .hero-container-paragraph {
+        /* font-size: 3vw; */
+        margin-bottom: 2em;
+    }
+}
+
 @media (max-width: 550px) {
     .grid-container {
         grid-template-columns: repeat(1, 1fr);
