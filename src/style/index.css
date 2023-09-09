@@ -17,6 +17,10 @@ body {
   overflow-x: hidden;
 }
 
+::selection{
+  background-color: #E4F222;
+}
+
 button,
 input {
   border: none;
