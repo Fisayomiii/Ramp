@@ -197,7 +197,7 @@
     text-align: left;
 }
 
-.cta-arrow-22{
+.cta-arrow-22 {
     margin-left: .3em;
     transition: all 0.4s ease-in;
 }
