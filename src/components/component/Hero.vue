@@ -13,7 +13,6 @@
                         <button type='submit' class="button">Get Started</button>
                     </form>
                 </div>
-
             </section>
 
 
